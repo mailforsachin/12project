@@ -1,41 +1,12 @@
-/* START OF THE PROJECT FOR PROJECT 2 FEEDBACK UI */
-
-body
-{
-margin: 0;
-background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
-margin:0;
-min-height: 100vh; /*Needed for Align Items. */
-justify-content: center;
-align-items:center;
-font-family: monospace;
-display: flex;
-}
-.container
-{
-padding: 20px;
-box-sizing: border-box;
-background-color: rgba(255,255,255,.3);
-box-shadow: 0 5x, 10px rgba(0,0,0,.3);  
-border-radius: 10px;
-}
-.fbicons
-{
-    width: 50px;
-    height: 50px;
- 
-}
-
-/* END OF THE PROJECT FOR PROJECT 2 FEEDBACK UI */
 
 /* START OF THE PROJECT FOR PROJECT 1 DAD JOKE GENERATOR */
-/*
+
 @import url('https://fonts.googleapis.com/css?family=Lato');
 body
 {
 margin:0;
 background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%); 
-//background: linear-gradient(to left bottom, #efd5ff 0%, #515ada 100%);
+/* //background: linear-gradient(to left bottom, #efd5ff 0%, #515ada 100%); */
 min-height: 100vh; 
 display:flex;
 justify-content: center;
@@ -46,9 +17,9 @@ font-family: oswald;
 {
 background-color: rgba(81, 90, 218, 0.8);
 padding: 5px;
-//box-shadow: x axis, y axis, blurness, color;
+/* //box-shadow: x axis, y axis, blurness, color; */
 box-shadow: 0px 0px 4px 4px rgba(81, 90, 218, 0.8);
-//border-radius: 10%;
+/* //border-radius: 10%; */
 border-radius: 15px;
 width:85%;
 text-align: center;
@@ -90,5 +61,5 @@ box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.3);
 color: black;
 transition: all 500ms ease;
 } 
-*/
+
 /* END OF THE PROJECT FOR PROJECT 1 DAD JOKE GENERATOR */
